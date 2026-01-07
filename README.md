@@ -16,13 +16,13 @@
 <li>📊 <a href="#model-performance">Model Performance</a></li>
 <li>🔬 <a href="#technical-details">Technical Details</a></li>
 <li>📚 <a href="#learning-resources">Learning Resources</a></li>
-<li>🚨 <a href="#disclaimer">Disclaimer</a></li>
+<li>🚨 <a href="#Disclaimer">Disclaimer</a></li>
 <li>📄 <a href="#license">License</a></li>
 <li>🙏 <a href="#acknowledgments">Acknowledgments</a></li>
 
 
 
-<div>
+<div id="overview">
   <h2>🎯 Overview</h2>
   <hr>
 
@@ -104,7 +104,7 @@
   This project focuses on <strong>learning by building</strong>, showing how AI can be applied to real-world fashion marketing problems using clean architecture, modular code, and an intuitive interface.
 </p>
 
-<div>
+<div id="features">
 <h2>✨ Features</h2>
 
 <section>
@@ -244,7 +244,7 @@
 </div>
 
 
-<div>
+<div id="quick-start">
 <h2>🚀 Quick Start</h2>
   
 </div><br>
@@ -446,9 +446,11 @@ This installs all required libraries for:
 
 
 <section>
+  <div id="model-performance">
 <h3>📊 Model Performance</h3>
 <h4>Default Performance (Fashion Market Dataset)</h4>
 <h5>(Historical fashion data including prices, ratings, and demand signals)</h5>
+  </div>
 <section>
   <h2>📊 Model Performance (Fashion Trend Analysis)</h2>
 
@@ -499,9 +501,11 @@ This installs all required libraries for:
 </table>
 
 </section>
+
 </section>
 
 <section>
+
   <h4>📊 Key Metrics</h4>
 
   <li><b>R² Score (Coefficient of Determination):</b> Measures how well the Linear Regression model explains variance in monthly sales trends.</li>
@@ -532,8 +536,9 @@ This installs all required libraries for:
 
 
 <section>
+  <div id="technical-details">
   <h3>🔬 Technical Details</h3>
-
+  </div>
   <h4>Data Pipeline</h4>
 
   <li><b>Collection:</b> CSV-based retail sales dataset (Superstore Sales).</li>
@@ -610,8 +615,9 @@ LinearRegression()
 
 
 <section>
+  <div id="Disclaimer">
   <h3>🚨 Disclaimer</h3>
-
+  </div>
   <h4>IMPORTANT:</h4>
   <p>This project is intended strictly for educational and learning purposes.</p>
 
@@ -627,14 +633,16 @@ LinearRegression()
 
   <h4>Legal Notice</h4>
   <p>The authors and contributors are not responsible for any business or financial outcomes resulting from the use of this project.</p>
-
+<div id="license">
   <h4>📄 License</h4>
   <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
+  </div>
 
 </section>
 
-
+<div id="acknowledgments">
 <h4>🙏 Acknowledgments</h4>
+</div>
 <li>Open-source fashion and e-commerce datasets used for learning purposes</li>
 
 <li>scikit-learn for reliable machine learning implementations</li>
