@@ -178,67 +178,21 @@
 </section>
 <section>
   
-  <h3>📊 Interactive Dashboard</h3>
+  <h3>📊 Interactive Streamlit Dashboard</h3>
   
-<li>Dynamic fashion product cards with:</li>
+<li>Dynamic Visualization product cards with:</li>
 
-<ul><li>Product image placeholder</li></ul>
+<ul><li>Product Selling Prediction</li></ul>
 
-<ul><li>Name, category, and brand</li></ul>
+<ul><li> category, and brand</li></ul>
 
 <ul><li>Current price & trend indicator</li></ul>
 
-<ul><li>Ratings and popularity score</li></ul>
+<ul><li>Customer Segment</li></ul>
 
-<li>Admin dashboards for:</li>
 
-<ul><li>Dataset Management</li></ul>
-
-<ul><li>Model Controls</li></ul>
-
-<ul><li>User Analytics</li></ul>
-
-<ul><li>System Logs</li></ul>
-
-<li>Clean, responsive UI built with HTML, CSS, Bootstrap</li>
-
-<li>Real-time insights powered by Python (Flask backend)</li>
-  
 </section>
 
-
-<section>
-
-  <h3>👥 User Analytics</h3>
-
-<li>Track user interactions and dashboard activity</li>
-
-<li>Monitor popular products and trending categories</li>
-
-<li>Analyze AI feature usage and engagement metrics</li>
-
-<li>Data-driven insights for marketing optimization</li>
-  
-</section>
-
-
-<section>
-
-<h3>📄 System Logs & Monitoring</h3>
-
-<li>Logs for:</li>
-
-<ul><li>Dataset uploads and updates</li></ul>
-
-<ul><li>Model training and evaluation events</li></ul>
-
-<ul><li>User actions and system errors</li></ul>
-
-<li>Timestamped records for transparency</li>
-
-<li>Performance monitoring for debugging and optimization</li>
-  
-</section>
 
 
 </div>
