@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score, mean_absolute_error
 
 
-df = pd.read_csv("data/superstore_sales.csv", dayfirst=True, encoding="latin1")
+df = pd.read_csv("data/Superstore_sales.csv", dayfirst=True, encoding="latin1")
 
 
 
@@ -277,4 +277,5 @@ st.divider()
 st.markdown(
     "**AI Applications – Module E | Market Trend Analysis Project**"
 )
+
 
