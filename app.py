@@ -1,5 +1,7 @@
 
+
 import streamlit as st
+import os
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -277,5 +279,6 @@ st.divider()
 st.markdown(
     "**AI Applications – Module E | Market Trend Analysis Project**"
 )
+
 
 
